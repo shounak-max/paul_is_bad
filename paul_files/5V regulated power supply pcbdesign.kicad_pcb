@@ -827,7 +827,7 @@
 				)
 			)
 		)
-		(property "Value" "LM317 "
+		(property "Value" "L7805"
 			(at 2.54 2.2 0)
 			(layer "F.Fab")
 			(uuid "ebab8425-b2b3-4609-8a44-e9a7a80a25dc")
@@ -838,7 +838,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "http://www.st.com/content/ccc/resource/technical/document/datasheet/41/4f/b3/b0/12/d4/47/88/CD00000444.pdf/files/CD00000444.pdf/jcr:content/translations/en.CD00000444.pdf"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -850,7 +850,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Positive 1.5A 35V Linear Regulator, Fixed Output 5V, TO-220/TO-263/TO-252"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -875,7 +875,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "bd9dc63e-e54f-461d-92dd-5698cd856d8a")
+			(uuid "b99656c9-3b92-4aba-be28-a13d678399d1")
 		)
 		(fp_line
 			(start -2.57 -1.88)
@@ -885,7 +885,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "d81531f3-8b6e-4e20-b48b-7b062ad60764")
+			(uuid "1442a3c4-890e-42a4-b026-dbb659e781de")
 		)
 		(fp_line
 			(start -2.57 1.36)
@@ -895,7 +895,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "43be6cc6-fe46-45e0-bb24-c3c77a8639bf")
+			(uuid "077e2896-9928-494a-b01a-61d0662fb1ba")
 		)
 		(fp_line
 			(start 0.69 -3.26)
@@ -905,7 +905,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "1178ffc5-d1e7-4352-b486-ec084120d445")
+			(uuid "cfa6b497-5001-430c-b6f6-513f2f9e7425")
 		)
 		(fp_line
 			(start 4.39 -3.26)
@@ -915,7 +915,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "2f816119-e667-4968-be20-31f64d60c244")
+			(uuid "3b7fcbfc-40c8-4ced-aab2-2c6a455fc67c")
 		)
 		(fp_line
 			(start 7.65 -3.26)
@@ -925,7 +925,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "bd8964aa-4416-47f1-984a-bd6cca49dd16")
+			(uuid "d7af6fce-63c0-4a5f-9997-e30c66c9ff3a")
 		)
 		(fp_line
 			(start 7.65 1.36)
@@ -935,7 +935,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "0c65c2ef-6c42-4a52-a3e9-40087c249d81")
+			(uuid "a11e5b2b-423a-4634-801f-d6b3c3da0924")
 		)
 		(fp_rect
 			(start -2.71 -3.4)
@@ -946,7 +946,7 @@
 			)
 			(fill no)
 			(layer "F.CrtYd")
-			(uuid "054a0b26-6a41-4108-8f5d-0946e5779da3")
+			(uuid "88159be5-7e51-433f-827a-95bcbaa031de")
 		)
 		(fp_line
 			(start -2.46 -1.88)
@@ -956,7 +956,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "fc11e8db-dfd6-4a87-a56c-eec305465f27")
+			(uuid "aeb17793-01c2-4aca-a6b8-d8c7d901c3b5")
 		)
 		(fp_line
 			(start 0.69 -3.15)
@@ -966,7 +966,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "791f5165-188d-4c2e-a3d3-65f20f427ed5")
+			(uuid "58d88704-d028-48ae-b069-0e65f0a3a53d")
 		)
 		(fp_line
 			(start 4.39 -3.15)
@@ -976,7 +976,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "01dda2df-ea36-490d-b9ee-d2c1afe27e30")
+			(uuid "2c40678e-56e7-4c4d-9383-6c3a18ad56b4")
 		)
 		(fp_rect
 			(start -2.46 -3.15)
@@ -987,7 +987,7 @@
 			)
 			(fill no)
 			(layer "F.Fab")
-			(uuid "a3bb9e60-8456-4c67-b711-9480dcb77c5f")
+			(uuid "05a10131-9667-4821-91dc-04ebbf8ffc00")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 2.54 -0.95 0)
@@ -6090,7 +6090,7 @@
 		(property "Reference" "J2"
 			(at 2.25 -5.12 0)
 			(layer "F.SilkS")
-			(uuid "f36920f4-c136-4768-aa73-0ba40496dea7")
+			(uuid "00a09aeb-0a51-4e0b-be5f-62c00a25eb0a")
 			(effects
 				(font
 					(size 1 1)
@@ -6098,10 +6098,10 @@
 				)
 			)
 		)
-		(property "Value" "+10V, GND "
+		(property "Value" "(+5v, gnd)"
 			(at 2.25 4.92 0)
 			(layer "F.Fab")
-			(uuid "6874d8bd-781c-4d3e-b28a-4ed8249ec355")
+			(uuid "332b9ccd-9815-436c-b6fd-e20b82906cbc")
 			(effects
 				(font
 					(size 1 1)
@@ -6113,7 +6113,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "27062e19-796f-4b97-95db-723b66957e76")
+			(uuid "e2b5aa55-7cc7-43fa-b580-a4478202bb48")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6125,7 +6125,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "6e27d1cf-3944-4d5e-ad27-5b1826d3862f")
+			(uuid "1b6d9f62-bdd0-4f78-978a-5182a1bab5a4")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8051,7 +8051,7 @@
 				)
 			)
 		)
-		(property "Value" "240"
+		(property "Value" "150"
 			(at 0.95 1.92 90)
 			(layer "F.Fab")
 			(uuid "6270c840-7551-41e6-a658-04decd438108")
@@ -8474,7 +8474,7 @@
 		(layer "Edge.Cuts")
 		(uuid "0db81026-e3b0-4dba-86b3-85cbb30c43af")
 	)
-	(gr_text "10V Regulated Power Supply "
+	(gr_text "5V Regulated Power Supply "
 		(at 116.4 132.8 0)
 		(layer "F.SilkS")
 		(uuid "c241e542-5137-409a-bda0-77efa1214f31")
