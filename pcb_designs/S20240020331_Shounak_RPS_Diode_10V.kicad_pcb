@@ -6098,7 +6098,7 @@
 				)
 			)
 		)
-		(property "Value" "(+5v, gnd)"
+		(property "Value" "(+10v, gnd)"
 			(at 2.25 4.92 0)
 			(layer "F.Fab")
 			(uuid "332b9ccd-9815-436c-b6fd-e20b82906cbc")
@@ -8474,7 +8474,7 @@
 		(layer "Edge.Cuts")
 		(uuid "0db81026-e3b0-4dba-86b3-85cbb30c43af")
 	)
-	(gr_text "5V Regulated Power Supply "
+	(gr_text "10V Regulated Power Supply "
 		(at 116.4 132.8 0)
 		(layer "F.SilkS")
 		(uuid "c241e542-5137-409a-bda0-77efa1214f31")
